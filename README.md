@@ -8,5 +8,5 @@
 * 文件上传
   * [upload-labs](https://github.com/c0ny1/upload-labs)
 * XSS
-  * [xss-labs](https://github.com/fengsec/WebLabs/xss-labs)
+  * [xss-labs](https://github.com/fengsec/WebLabs/tree/master/xss-labs)
 
