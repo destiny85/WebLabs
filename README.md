@@ -9,4 +9,6 @@
   * [upload-labs](https://github.com/c0ny1/upload-labs)
 * XSS
   * [xss-labs](https://github.com/fengsec/WebLabs/tree/master/xss-labs)
+* XXE
+  * [xxe-labs](https://github.com/c0ny1/xxe-lab)
 
