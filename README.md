@@ -1,4 +1,4 @@
-> 收集的部分Web安全漏洞靶场，仅供学习
+> 收集的部分Web安全漏洞靶场，仅供学习。
 
 * Web漏洞测试平台
   * [Pikachu](https://github.com/zhuifengshaonianhanlu/pikachu)
