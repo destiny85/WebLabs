@@ -1,0 +1,3 @@
+[submodule "PHP-Audit-Labs"]
+	path = PHP-Audit-Labs
+	url = https://github.com/hongriSec/PHP-Audit-Labs
